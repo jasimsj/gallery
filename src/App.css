@@ -1,0 +1,39 @@
+.tiles-container {
+  padding: 10px;
+}
+
+.watch-card {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 90vh;
+}
+
+.nav-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+.reuse-flex {
+  display: flex;
+  align-items: center;
+}
+
+/* @media only screen and (max-width: 600px) {
+    .media-card {
+      height: 300px;
+    }
+} */
+
+.link-style{
+  text-decoration: none !important;
+  color: black;
+}
+
+.link-style-white{
+  text-decoration: none !important;
+  color: whitesmoke;
+}
